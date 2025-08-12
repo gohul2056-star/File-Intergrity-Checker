@@ -89,3 +89,8 @@ Feel free to fork, modify, or expand this project. Contributions are welcome!
 
 ---
 
+##OUTPUT
+
+<img width="1728" height="842" alt="Image" src="https://github.com/user-attachments/assets/4894fe60-ae08-4933-a507-6167f536d45c" />
+
+---
