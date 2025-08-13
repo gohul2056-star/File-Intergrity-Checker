@@ -87,7 +87,7 @@ File integrity monitoring is a foundational skill in cybersecurity. This script 
 
 ---
 
-Feel free to fork, modify, or expand this project. Contributions are welcome!
+
 
 ---
 
